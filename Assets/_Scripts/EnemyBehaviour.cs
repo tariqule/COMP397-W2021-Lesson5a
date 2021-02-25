@@ -7,7 +7,6 @@ public class EnemyBehaviour : MonoBehaviour
 {
     public NavMeshAgent navMeshAgent;
     public Transform player;
-
     // Start is called before the first frame update
     void Start()
     {
